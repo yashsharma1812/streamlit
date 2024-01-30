@@ -55,5 +55,5 @@ st.write(''' Embark on your real estate journey with this project. Explore the p
 Get Started today! ''')
 
 
-st.sidebar.markdown("## [Power BI Dashboard](https://www.novypro.com/project/real-estate-analytics)")
+st.sidebar.markdown("## [Power BI Dashboard](https://www.novypro.com/project/real-estate-analytics-power-bi)")
 
